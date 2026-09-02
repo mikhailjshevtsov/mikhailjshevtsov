@@ -131,7 +131,7 @@ AI должен быть не просто интересной технолог
 
 ---
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhailjshevtsov)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikhailjshevtsov&show_icons=true&theme=tokyonight)
 
 ---
 
