@@ -129,6 +129,8 @@ AI должен быть не просто интересной технолог
 
 📧 **E-mail:** [mikeshevtsov@hotmail-ya.ru](mailto:mikeshevtsov@hotmail-ya.ru)
 
+### 🚀 Let's build useful AI solutions together!
+
 ---
 
 <p align="center">
@@ -149,7 +151,6 @@ AI должен быть не просто интересной технолог
 
 ---
 
-### 🚀 Let's build useful AI solutions together!
 
 
 <!--
