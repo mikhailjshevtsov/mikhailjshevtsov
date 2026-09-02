@@ -133,7 +133,7 @@ AI должен быть не просто интересной технолог
 
 ---
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api?username=mikhailjshevtsov&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
@@ -142,7 +142,7 @@ AI должен быть не просто интересной технолог
 
 ---
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mikhailjshevtsov&layout=compact&theme=tokyonight"
     alt="Top Languages"
