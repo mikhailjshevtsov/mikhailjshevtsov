@@ -1,5 +1,11 @@
 # 🤖 AI Solutions | Prompt Engineering | Business Automation
 
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=mikhailjshevtsov&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+
+</p>
+
 ## 👋 Привет! Меня зовут Михаил
 
 Я **Prompt Engineer и AI-разработчик** с большим опытом в области **бизнес-анализа, системного анализа и IT-консалтинга**.
