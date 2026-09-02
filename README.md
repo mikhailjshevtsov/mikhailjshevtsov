@@ -127,6 +127,13 @@ AI должен быть не просто интересной технолог
 
 📬 **Telegram:** [@Prompt_Mikhail](https://t.me/Prompt_Mikhail)
 
+📧 **E-mail:** [mikeshevtsov@hotmail-ya.ru](mailto:mikeshevtsov@hotmail-ya.ru)
+
+---
+
+### 🚀 Let's build useful AI solutions together!
+
+
 ---
 
 ### 🚀 Let's build useful AI solutions together!
