@@ -134,11 +134,6 @@ AI должен быть не просто интересной технолог
 ### 🚀 Let's build useful AI solutions together!
 
 
----
-
-### 🚀 Let's build useful AI solutions together!
-
-
 <!--
 **mikhailjshevtsov/mikhailjshevtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
